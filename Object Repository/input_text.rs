@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_text</name>
+   <tag></tag>
+   <elementGuidId>92c5792c-0e77-47b9-97b0-f420f7212be5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='page_body']/descendant::input[@type='text'][${rowNo}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='page_body']/descendant::input[@type='text'][${rowNo}]</value>
+   </webElementProperties>
+</WebElementEntity>

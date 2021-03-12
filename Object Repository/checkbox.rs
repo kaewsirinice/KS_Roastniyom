@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox</name>
+   <tag></tag>
+   <elementGuidId>8dafde96-f9dd-4160-8e1d-5a041f6c781e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='question_element']/descendant::label[@class='checkmark']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='question_element']/descendant::label[@class='checkmark']</value>
+   </webElementProperties>
+</WebElementEntity>
